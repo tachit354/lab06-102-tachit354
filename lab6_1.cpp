@@ -21,7 +21,7 @@ int main(){
             y = y;
         }
     }
-
+    
     cout << "#Even numbers = " << y << "\n";
     cout << "#Odd numbers = " << z << "\n";
     return 0;
